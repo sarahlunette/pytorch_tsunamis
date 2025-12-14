@@ -1,0 +1,13 @@
+pandas
+torch
+torchvision
+numpy
+scikit-learn
+seaborn
+matplotlib
+plotly
+umap
+xgboost
+keras
+pytorch-tabnet
+
